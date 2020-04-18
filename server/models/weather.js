@@ -1,6 +1,6 @@
 const request = require('request-promise');
 
-const API_KEY = "f485b5c44aff4f3d57233d3caa5ced39"
+const API_KEY = ""
 
 
 
